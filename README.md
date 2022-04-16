@@ -15,6 +15,7 @@ git clone https://github.com/JPaulMora/Pyrit.git
 cd pyrit
 
 sudo python setup.py clean
-sudo python setup.py build
-sudo python setup.py install
 
+sudo python setup.py build
+
+sudo python setup.py install
